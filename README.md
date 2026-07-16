@@ -1,21 +1,4 @@
-<!-- 
-  ██████╗██╗   ██╗████████╗ ██████╗      ██╗███████╗███╗   ██╗
- ██╔════╝╚██╗ ██╔╝╚══██╔══╝██╔═══██╗     ██║██╔════╝████╗  ██║
- ██║      ╚████╔╝    ██║   ██║   ██║     ██║█████╗  ██╔██╗ ██║
- ██║       ╚██╔╝     ██║   ██║   ██║██   ██║██╔══╝  ██║╚██╗██║
- ╚██████╗   ██║      ██║   ╚██████╔╝╚█████╔╝███████╗██║ ╚████║
-  ╚═════╝   ╚═╝      ╚═╝    ╚═════╝  ╚════╝ ╚══════╝╚═╝  ╚═══╝
-  
-  // IDDQD — GOD MODE ACTIVATED
-  // ↑ ↑ ↓ ↓ ← → ← → B A START
-  // "It's dangerous to go alone! Take this README."
--->
-
 <div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░░░  HERO SECTION  ░░░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img src="assets/banner.svg" alt="Jen Patrick Nataba — Hello, I am Jen Patrick Nataba" width="100%"/>
 
@@ -47,11 +30,11 @@ name:           "Jen Patrick G. Nataba"
 location:       "Manila, Philippines 🇵🇭"
 interests:      ["Data Engineering", "Machine Learning", "AWS Cloud", "Open Source"]
 education:      "BS Computer Science @ Polytechnic University of the Philippines (2023–2027)"
-certifications: ["DataCamp Certified DE", "IBM Data Science (US-ASEAN STIC)", "HarvardX CS50"]
+certifications: ["DataCamp Certified Data Engineer", "DataCamp Certified Associate Data Analyst"]
 currently:      "Building data pipelines, training ML models, and exploring cloud architecture"
 ```
 
-> *I'm a hands-on data engineer and ML practitioner who loves turning messy data into something meaningful. I've had the chance to work with organizations like Angat Buhay, Booky, and Omdena - building end-to-end pipelines, interactive dashboards, and ML models that actually drive decisions. I often see myself chasing the "why" behind every data point.*
+> *I'm invested in data engineering, data analysis, and data science, and I enjoy turning messy data into meaningful insights. I've had the chance to work with organizations like Angat Buhay, Booky, and Omdena - building end-to-end pipelines, interactive dashboards, and ML models that actually drive decisions. I often see myself chasing the "why" behind every data point.*
 
 <br/>
 
@@ -64,7 +47,7 @@ currently:      "Building data pipelines, training ML models, and exploring clou
 | **Machine Learning** | ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logoColor=white) ![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square&logo=000) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature_Eng-4B0082?style=flat-square&logoColor=white) |
 | **Cloud (AWS)** | ![AWS S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white) ![Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white) ![Athena](https://img.shields.io/badge/Athena-232F3E?style=flat-square&logoColor=white) ![EventBridge](https://img.shields.io/badge/EventBridge-FF4F8B?style=flat-square&logo=white) ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) ![Amazon Redshift](https://img.shields.io/badge/Redshift-8C4FFF?style=flat-square&logo=amazonredshift&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) |
 | **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000) |
 | **Data Visualization** | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) ![PostHog](https://img.shields.io/badge/PostHog-1D4AFF?style=flat-square&logo=posthog&logoColor=white) ![ThinkCell](https://img.shields.io/badge/ThinkCell-2D3748?style=flat-square&logo=white) |
 | **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white) |
@@ -129,7 +112,6 @@ currently:      "Building data pipelines, training ML models, and exploring clou
 </div>
 
 <!-- 
-<!--
 
 ╔══════════════════════════════════════════════════════════╗
 ║  YOU FOUND THE INTEL!                                    ║
