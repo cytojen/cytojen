@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 130" width="900" height="130">
+  <defs>
+    <pattern id="scanlines-f" patternUnits="userSpaceOnUse" width="2" height="4">
+      <rect width="2" height="2" fill="rgba(0,0,0,0.18)"/>
+      <rect y="2" width="2" height="2" fill="transparent"/>
+    </pattern>
+    <filter id="glow-f">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="130" fill="#1e1a17" rx="6"/>
+
+  <!-- Border -->
+  <rect x="4" y="4" width="892" height="122" fill="none" stroke="#d27c2c" stroke-width="1.5" rx="4" opacity="0.8"/>
+
+  <!-- Team Decals in corners (Red vs Blu) -->
+  <rect x="10" y="10" width="10" height="10" fill="#bd3b3b" opacity="0.8"/>
+  <rect x="880" y="10" width="10" height="10" fill="#5b7a8c" opacity="0.8"/>
+  <rect x="10" y="110" width="10" height="10" fill="#5b7a8c" opacity="0.8"/>
+  <rect x="880" y="110" width="10" height="10" fill="#bd3b3b" opacity="0.8"/>
+
+  <!-- Main text -->
+  <text x="450" y="60" text-anchor="middle" font-family="'Courier New', monospace" font-size="20" font-weight="bold" fill="#f0e7d5" letter-spacing="3" filter="url(#glow-f)">
+    LET'S BUILD SOMETHING TOGETHER.
+  </text>
+
+  <!-- Subtitle -->
+  <text x="450" y="86" text-anchor="middle" font-family="'Courier New', monospace" font-size="11" fill="#e58b12" letter-spacing="2">
+    OPEN TO COLLABORATIONS AND NEW OPPORTUNITIES
+  </text>
+
+  <!-- Scanlines -->
+  <rect width="900" height="130" fill="url(#scanlines-f)" rx="6" opacity="0.3"/>
+</svg>
